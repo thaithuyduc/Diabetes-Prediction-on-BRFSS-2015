@@ -41,3 +41,11 @@ Key Results:
 - Apply feature importance techniques (e.g., tree-based importance, permutation importance)
 - Identify top contributing features to diabetes prediction
 - Provide interpretable insights into key risk factors
+
+We also have a dashboard to see intuitively things we found in Dataset and we simulate Diabete Prediction in this Dashboard based on some basic information from users. 
+
+![alt text](<Screenshot 2026-04-29 at 13.32.04.png>)
+
+![alt text](<Screenshot 2026-04-29 at 13.35.38.png>)
+
+To know how to run this dashboard, refer to run_dashboard.md
